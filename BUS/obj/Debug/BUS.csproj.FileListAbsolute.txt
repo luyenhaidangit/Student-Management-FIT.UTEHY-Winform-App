@@ -1,0 +1,22 @@
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\bin\Debug\BUS.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\bin\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\bin\Debug\DAO.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\bin\Debug\DTO.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\bin\Debug\DAO.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\bin\Debug\DTO.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\bin\Debug\BUS.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\bin\Debug\DAO.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\bin\Debug\DTO.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\bin\Debug\DAO.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\BUS\obj\Debug\BUS.pdb

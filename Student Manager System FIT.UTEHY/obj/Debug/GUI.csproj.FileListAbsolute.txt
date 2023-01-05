@@ -1,0 +1,62 @@
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Student Manager System FIT.UTEHY.exe.config
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Student Manager System FIT.UTEHY.exe
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Student Manager System FIT.UTEHY.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\BUS.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DTO.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Guna.UI2.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DAO.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DTO.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DAO.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.LoginGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.Properties.Resources.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.CopyComplete
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student Manager System FIT.UTEHY.exe
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student Manager System FIT.UTEHY.pdb
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.GenerationGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.LoadingGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.DashboardGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\FontAwesome.Sharp.dll
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.OverviewGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.ClassGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.StudentGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.TeacherGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.SubjectGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.ScheduleGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.ScoresGUI.resources
+C:\luyenhaidangit.github.io\Student-Manager-System-FIT.UTEHY\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.UserGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Student Manager System FIT.UTEHY.exe.config
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Student Manager System FIT.UTEHY.exe
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Student Manager System FIT.UTEHY.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\BUS.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DTO.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\Guna.UI2.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DAO.dll
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DTO.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\bin\Debug\DAO.pdb
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.ClassGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.DashboardGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.OverviewGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.GenerationGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.LoadingGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.LoginGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.ScheduleGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.ScoresGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.StudentGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.SubjectGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.TeacherGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student_Manager_System_FIT.UTEHY.UserGUI.resources
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student Manager System FIT.UTEHY.exe
+C:\Users\PC\OneDrive\Máy tính\Student-Manager-System-FIT.UTEHY-main\Student Manager System FIT.UTEHY\Student Manager System FIT.UTEHY\obj\Debug\Student Manager System FIT.UTEHY.pdb

@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Generation] (
+    [ID]   NVARCHAR (10) NOT NULL,
+    [NAME] NVARCHAR (50) NULL,
+    [DESC]  NVARCHAR (50) NULL,
+    CONSTRAINT [PK_Generation] PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
